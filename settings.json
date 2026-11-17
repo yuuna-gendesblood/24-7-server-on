@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Gorengan.aternos.me",
+    "port": 52752,
     "version": "",
     "try-creative": false
   },
